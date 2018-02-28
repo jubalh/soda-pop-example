@@ -1,0 +1,1 @@
+add_column("users", "age", "integer", {"default": "23"})
